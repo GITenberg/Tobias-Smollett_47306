@@ -1,4 +1,8 @@
 _repo: Tobias-Smollett_47306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47306-h/images/cover.jpg
 creator:
   author:
     agent_name: Smeaton, William Henry Oliphant
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6500
     wikipedia: https://en.wikipedia.org/wiki/William_Henry_Oliphant_Smeaton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47306#Tobias-Smollett
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2014-11-07'
 gutenberg_type: Text
